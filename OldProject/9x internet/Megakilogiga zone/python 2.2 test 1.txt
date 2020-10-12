@@ -1,0 +1,32 @@
+'''
+Ask the user to input an integer. Print out the next three consecutive numbers.
+
+'''
+integer = input("type an integer ")
+int = integer
+print (integer * int)
+
+# attempt log (failures)
+
+#integer = input("type an integer ")
+#int = integer
+#print (integer * int)
+
+#integer = input("type an integer ")
+#str = integer
+#print (integer * str)
+
+#integer = input ("type an integer")
+#print (integer * integer * integer)
+
+#integer = input ("type an integer")
+#print (integer * integer **integer)
+
+#integer = input ("type an integer")
+#print (integer ** integer ** integer)
+
+#complains
+
+#this is really pissing me off
+#every time i go back to fix something, it erases the character after the character i am typing
+#i hate this! it gets really annoying
