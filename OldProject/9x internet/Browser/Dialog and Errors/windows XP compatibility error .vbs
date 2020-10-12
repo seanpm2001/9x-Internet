@@ -1,0 +1,1 @@
+ x=MsgBox("We have detected that you are using windows XP. This browser was designed ONLY for windows 9x operating systems, which windows XP is not. Please downgrade to a windows 9x operating system or get a different browser to continue", 0x16, "Compatibility error: Windows XP")

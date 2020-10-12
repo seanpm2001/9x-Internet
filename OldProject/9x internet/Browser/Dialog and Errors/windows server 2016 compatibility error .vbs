@@ -1,0 +1,1 @@
+ x=MsgBox("We have detected that you are using windows server 2016. This browser was designed ONLY for windows 9x operating systems, which windows server 2016 is not. Please downgrade to a windows 9x operating system or get a different browser to continue", 0x16, "Compatibility error: Windows server 2016")

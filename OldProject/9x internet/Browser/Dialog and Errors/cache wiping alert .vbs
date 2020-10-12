@@ -1,0 +1,1 @@
+ x=MsgBox("Are you sure you want to clear the cache?", 0+48, "Cache wiping Alert")

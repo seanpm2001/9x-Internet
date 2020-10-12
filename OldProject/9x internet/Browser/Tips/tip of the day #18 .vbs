@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 18: Bitmap images are the most compatible image format for windows 9x computers", 0x64, "Tip of the day #18")

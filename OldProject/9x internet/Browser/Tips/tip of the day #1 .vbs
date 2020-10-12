@@ -1,0 +1,1 @@
+ x=MsgBox("Tip 1: HTML, stands for Hyper Text Markup Language. HTML is  one of the most widely used formats for making websites and webpages", 0x64, "Tip of the day #1")

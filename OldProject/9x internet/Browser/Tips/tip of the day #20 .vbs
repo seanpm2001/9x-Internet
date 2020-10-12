@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 20: Windows 9x is a 16 bit operating system. There are no elements in 24 bit or higher on this search engine", 0x64, "Tip of the day #20")

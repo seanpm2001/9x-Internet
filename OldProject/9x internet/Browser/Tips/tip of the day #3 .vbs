@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 3: You can view any site full screen by pressing F11. to exit full screen mode, just press F11 again. If this doesn't work, press CTRL + F11. Pressing ALT + Enter works too!", 0x64, "Tip of the day #3")

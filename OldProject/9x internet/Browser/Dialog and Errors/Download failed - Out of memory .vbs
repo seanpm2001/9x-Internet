@@ -1,0 +1,1 @@
+ x=MsgBox("You do not have enough memory to continue this download. The download has been cancelled. Please free up memory, and try again", 0+16, "Download Cancelled - Not Enough Memory")

@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 6: Want to take a music break? Right click the tab that is playing music, and click MUTE. When you want to listen again, right click the tab and click UNMUTE", 0x64, "Tip of the day #6")

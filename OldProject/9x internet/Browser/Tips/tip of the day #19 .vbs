@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 19: If a video is lagging, turn the quality to a lower level. It should load faster", 0x64, "Tip of the day #19")

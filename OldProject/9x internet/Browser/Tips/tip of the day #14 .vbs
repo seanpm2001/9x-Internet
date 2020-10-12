@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 14: Windows 2000 is NOT  a windows 9x operating system. It will not work with this browser. Continue using windows 95, windows 98, windows ME, and windows NT 4.0 for this browser", 0x64, "Tip of the day #14")

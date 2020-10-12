@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 9: You can bookmark websites, and webpages to be able to quickly find them later. Organize your bookmarks, and grow a collection! Be careful not to make too many bookmarks, as you could make it harder to find them, and make the browser slower", 0x64, "Tip of the day #9")

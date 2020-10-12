@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 4: If you want to quickly close the browser, press ALT + F4, or end the browser through the task manager", 0x64, "Tip of the day #4")

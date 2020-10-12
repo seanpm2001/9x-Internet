@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 11: You can download large files, but it might be slower, and take longer, depending on how much RAM your machine has!", 0x64, "Tip of the day #11")

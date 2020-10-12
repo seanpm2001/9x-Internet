@@ -1,0 +1,1 @@
+ x=MsgBox("Are you sure you want to cancel this download?", 0+48, "Cancel download")

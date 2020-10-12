@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 21: Google has ended support on their browser and search engine for windows 9x computers for over a decade. Therefore, google is not a valid search engine on this platform. However, we will continue to support windows 9x for the year after the end of time", 0x64, "Tip of the day #21")

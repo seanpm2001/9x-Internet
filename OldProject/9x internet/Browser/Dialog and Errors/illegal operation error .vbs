@@ -1,0 +1,1 @@
+ x=MsgBox("This program has performed an illegal operation, and will now shut down", 0+16, "Illegal operation")

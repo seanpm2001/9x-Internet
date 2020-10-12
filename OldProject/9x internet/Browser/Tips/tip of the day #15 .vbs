@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 15: The more users that use the internet, the slower the connection will be. This browser supports connection up to 500 MBPS", 0x64, "Tip of the day #!5")

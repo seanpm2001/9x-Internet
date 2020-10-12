@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 7: Be specific with your searches, but not too specific! Your search can contain up to 1024 characters, or up to 64 words, where other browsers, like google chrome only allow searches up to 32 words", 0x64, "Tip of the day #7")

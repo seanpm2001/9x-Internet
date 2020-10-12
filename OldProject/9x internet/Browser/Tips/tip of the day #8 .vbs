@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 8: Want to free up a bit of memory, and have faster searching? Go into the menu and click CLEAR CACHE. Be Careful! Some cache is inportant, and can contain information like passwords, and usernames", 0x64, "Tip of the day #8")

@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 16: You can customize the home page of this site! Insert your HTML document in place of the default, and you will see it whenever you start the browser", 0x64, "Tip of the day #16")

@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 13: Websites that have higher  resolution than your computer will require more scrolling. Images load on this site in the following quality formats: 144p 240p 360p 480p 720p 1080p 1440p 2160p 4320p", 0x64, "Tip of the day #13")

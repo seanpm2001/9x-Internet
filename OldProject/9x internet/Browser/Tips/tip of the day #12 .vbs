@@ -1,0 +1,1 @@
+ x=MsgBox("Tip # 12: All websites put on here are verified by our team. If a site contains malicious content, we will tell you", 0x64, "Tip of the day #12")
